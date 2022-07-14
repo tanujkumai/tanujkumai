@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: ishre-yash
+          user: tanujkumai
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
