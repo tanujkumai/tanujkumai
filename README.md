@@ -1,22 +1,52 @@
-### Hi there 👋
-
-<!--
-**tanujkumai/tanujkumai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Tanuj 👋</h1>
 
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tanujkumai&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanujkumai&show_icons=true&theme=github_dark&hide_border=true" />
+  Data Enthusiast | SQL Explorer | Future Analyst 🔍
 </p>
 
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on **PostgreSQL data analysis projects**
+- 🌱 Exploring **PostgreSQL**, and **Python**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tanujkumai/)
+
+---
+
+### 🚀 Tech Stack
+
+- **Languages**: Python • HTML
+- **Tools**: PostgreSQL  • Excel • Git
+- **Currently Learning**: PostgreSQL
+
+---
+
+### 📁 Highlight Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🧠 `SQL Job Data Analysis` | Analyzing job market trends using SQL and public data | PostgreSQL |
+| 🗃️ `Data Cleaning ` | Cleaning data using Excel | Excel |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanujkumai&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujkumai&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanujkumai/"><img src="https://img.shields.io/badge/LinkedIn-Tanuj%20Kumai-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:tanujkumai21@gmail.com"><img src="https://img.shields.io/badge/Email-tanujkumai21@gmail.com-red?style=flat-square&logo=gmail" /></a>
+</p>
+
+---
+
+> 🧠 *“Data beats opinions.”* – everyone who loves dashboards
