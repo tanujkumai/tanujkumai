@@ -16,9 +16,9 @@
 
 ### 🚀 Tech Stack
 
-- **Languages**: Python • HTML
-- **Tools**: PostgreSQL  • Excel • Git
-- **Currently Learning**: PostgreSQL
+- **Languages**: Python • SQL 
+- **Tools**: PostgreSQL  • Excel • Git • Github • DBeaver 
+- **Currently Learning**: Advance SQL concept 
 
 ---
 
