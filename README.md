@@ -1,33 +1,38 @@
-<h1 align="center">Hi, I'm Tanuj 👋</h1>
+<h1 align="center">Hey there, I'm Tanuj 👋</h1>
 
 <p align="center">
-  Data Enthusiast | SQL Explorer | Future Analyst 🔍
+  Aspiring Data Analyst | SQL Enthusiast | Insight Hunter 🔍
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **PostgreSQL data analysis projects**
-- 🌱 Exploring **PostgreSQL**, and **Python**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tanujkumai/)
+- 🎯 Currently analyzing **e-commerce & job market data** using PostgreSQL
+- 📊 Building SQL projects focused on **customer behavior, retention, and LTV**
+- 🌱 Learning **Advanced SQL**, data storytelling, and exploring **Python for analysis**
+- 💡 Passionate about transforming raw data into actionable insights
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tanujkumai/) or [Email](mailto:tanujkumai21@gmail.com)
 
 ---
 
-### 🚀 Tech Stack
+### ⚒️ Tech Stack
 
-- **Languages**: Python • SQL 
-- **Tools**: PostgreSQL  • Excel • Git • Github • DBeaver 
-- **Currently Learning**: Advance SQL concept 
+- **Languages:** SQL • Python (Basics)
+- **Tools:** PostgreSQL • Excel • DBeaver • Git • GitHub
+- **Learning:** Advanced SQL concepts • Data Visualization • Pandas
 
 ---
 
-### 📁 Highlight Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🧠 `SQL Job Data Analysis` | Analyzing job market trends using SQL and public data | PostgreSQL |
-| 🗃️ `Data Cleaning ` | Cleaning data using Excel | Excel |
+| 🧠 `Intermediate SQL: Sales Analysis` | Customer segmentation, cohort & retention analysis for e-commerce business | PostgreSQL, DBeaver |
+| 📈 `SQL Job Market Trends` | Analyzed SQL-related job listings to uncover industry hiring patterns | PostgreSQL |
+| 🧹 `Excel Data Cleaning` | Performed data transformation and error cleanup in job dataset | Excel |
+
+> Check out my project repos for insights, queries, and visualizations!
 
 ---
 
@@ -40,7 +45,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanujkumai/"><img src="https://img.shields.io/badge/LinkedIn-Tanuj%20Kumai-blue?style=flat-square&logo=linkedin" /></a>
@@ -49,4 +54,7 @@
 
 ---
 
-> 🧠 *“Data beats opinions.”* – everyone who loves dashboards
+### ✨ Fun Fact
+
+> 🧠 *“Without data, you're just another person with an opinion.”* – W. Edwards Deming
+
