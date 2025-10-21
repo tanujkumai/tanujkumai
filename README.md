@@ -1,26 +1,28 @@
 <h1 align="center">Hey there, I'm Tanuj 👋</h1>
 
 <p align="center">
-  Aspiring Data Analyst | SQL Enthusiast | Insight Hunter 🔍
+  Aspiring Machine Learning & Data Analyst | SQL • Python • ML Enthusiast 🤖
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎯 Currently analyzing **e-commerce & job market data** using PostgreSQL
-- 📊 Building SQL projects focused on **customer behavior, retention, and LTV**
-- 🌱 Learning **Advanced SQL**, data storytelling, and exploring **Python for analysis**
-- 💡 Passionate about transforming raw data into actionable insights
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tanujkumai/) or [Email](mailto:tanujkumai21@gmail.com)
+- 🚀 Passionate about **Machine Learning, Data Analytics, and AI applications**  
+- 🧩 Started with **SQL and Excel**, now exploring **Python and predictive modeling**  
+- 🏗️ Working on **end-to-end ML projects** — from data cleaning to model optimization  
+- 📊 Experienced with **customer segmentation, lifetime value (LTV)**, and **trend analysis**  
+- 🌱 Learning **feature engineering, hyperparameter tuning, and model evaluation**  
+- 💡 I love turning raw data into actionable insights and intelligent predictions  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/tanujkumai/) or [Email](mailto:tanujkumai21@gmail.com)
 
 ---
 
 ### ⚒️ Tech Stack
 
-- **Languages:** SQL • Python (Basics)
-- **Tools:** PostgreSQL • Excel • DBeaver • Git • GitHub
-- **Learning:** Advanced SQL concepts • Data Visualization • Pandas
+- **Languages:** Python (Pandas, NumPy, Scikit-learn) • SQL  
+- **Tools:** Jupyter • PostgreSQL • Excel • DBeaver • Git • GitHub  
+- **Learning:** Feature Engineering • Model Optimization • Power BI • ML Deployment  
 
 ---
 
@@ -28,11 +30,13 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🧠 `Intermediate SQL: Sales Analysis` | Customer segmentation, cohort & retention analysis for e-commerce business | PostgreSQL, DBeaver |
-| 📈 `SQL Job Market Trends` | Analyzed SQL-related job listings to uncover industry hiring patterns | PostgreSQL |
-| 🧹 `Excel Data Cleaning` | Performed data transformation and error cleanup in job dataset | Excel |
+| 🏠 `House Price Prediction (ML)` | Progressive ML project — from Linear Regression to model optimization | Python (Scikit-learn, Pandas) |
+| 🎬 `Netflix Titles Analysis` | Cleaned and visualized Netflix dataset to explore global content trends | Python (Pandas, Matplotlib) |
+| 🧠 `E-commerce SQL Analysis` | Customer segmentation & LTV breakdown using Contoso dataset | PostgreSQL, DBeaver |
+| 📈 `SQL Job Market Trends` | Analyzed job listings to identify top ML & data skills in demand | PostgreSQL |
+| 🧹 `Excel Data Cleaning` | Data transformation and preparation for analytics | Excel |
 
-> Check out my project repos for insights, queries, and visualizations!
+> 🔍 Check out my repositories for data analysis notebooks, ML models, and SQL insights.
 
 ---
 
@@ -42,6 +46,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanujkumai&show_icons=true&theme=github_dark&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujkumai&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
 
 ---
 
@@ -56,5 +61,4 @@
 
 ### ✨ Fun Fact
 
-> 🧠 *“Without data, you're just another person with an opinion.”* – W. Edwards Deming
-
+> 🤖 *“The goal is to turn data into information, and information into insight.”* – Carly Fiorina
